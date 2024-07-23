@@ -1,11 +1,12 @@
 # 💫 About Me:
-- 🔭 I’m currently working on the **"All in One"** project.
-- 🤝 I am seeking help of **Front-end developer**.
-- 💬 Feel free to ask me about **Backend Node.JS** related questions!
+- 🔭 I’m currently working on the "All in One" project.
+- 🤝 I am seeking help of Front-end developer.
+- 💬 Feel free to ask me about Backend Node.JS related questions!
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shokhjahon_s) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shokhjahon_s)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shomirzayevshokhjahon@gmail.com)
 
 ## 💻 Tech Stack:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -39,4 +40,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shokhjahon-developer&icon=0&color=1)](https://visitcount.itsvg.in)
-
