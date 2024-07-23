@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on All in One project.<br>👯 I’m looking to collaborate on a full-stack application to enhance my skills.<br>🤝 I am looking for help with integrating the frontend with my backend.<br>💬 Ask me about anything related to Backend Node.JS<br>
+🔭 I’m currently working on "All in One" project.<br>👯 I’m looking to collaborate on a full-stack application to enhance my skills.<br>🤝 I am looking for help with integrating the frontend with my backend.<br>💬 Ask me about anything related to Backend Node.JS<br>
 
 
 ## 🌐 Socials:
