@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on the **"All in One"** project.
-- 👯 I’m looking to collaborate on a **full-stack application** to enhance my skills.
-- 🤝 I am seeking help with **integrating the frontend with my backend**.
+- 🤝 I am seeking help of ** Front-end developer**.
 - 💬 Feel free to ask me about **Backend Node.JS** related questions!
 
 ## 🌐 Connect with Me:
