@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on "All in One" project.<br>👯 I’m looking to collaborate on a full-stack application to enhance my skills.<br>🤝 I am looking for help with integrating the frontend with my backend.<br>💬 Ask me about anything related to Backend Node.JS<br>
 
+<img width="1000" src="/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shokhjahon_s) 
