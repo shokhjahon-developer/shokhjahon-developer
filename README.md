@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on the **"All in One"** project.
 - 👯 I’m looking to collaborate on a **full-stack application** to enhance my skills.
 - 🤝 I am seeking help with **integrating the frontend with my backend**.
-- 💬 Feel free to ask me about **Backend Node.JS** related queries!
+- 💬 Feel free to ask me about **Backend Node.JS** related questions!
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shokhjahon_s) 
